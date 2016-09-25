@@ -1,0 +1,11 @@
+Initalizing sfs
+Writing superblocks
+Writing inode table
+Writing root dir
+Writing free blocks
+0, 1, 1, 8 
+out of bound error 4200873
+out of bound error
+8
+8
+°,@
